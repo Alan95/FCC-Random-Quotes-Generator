@@ -1,0 +1,31 @@
+.container {
+    background: #f4f4f4;
+    border-radius: 20px;
+    width: 50%;
+    min-height: 200px;
+}
+h1 {
+    font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+    font-size: 36px;
+}
+body {
+    background: url("http://www.planwallpaper.com/static/images/Fall-Nature-Background-Pictures.jpg");
+}
+img {
+    margin-top: 50px;
+    width: 100%;
+}
+.box {
+    margin-top: 60px;
+}
+.btn {
+    margin-top: 70px;
+    margin-bottom: 5px;
+    cursor: pointer;
+}
+blockquote {
+    border-left: 10px solid #ccc;
+    quotes: "\201C""\201D""\2018""\2019";
+    content: open-quote;
+    color: black;
+}
